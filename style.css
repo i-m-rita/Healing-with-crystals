@@ -1,0 +1,129 @@
+body{
+	background-image: linear-gradient( #FFF0F5, #FCDFFF);
+}
+
+#title{
+	font-family: 'Lobster', cursive;
+	color: mediumvioletred;
+	text-align: center;
+	font-size: 45px;
+	letter-spacing: 1px;
+}
+
+#image {
+	max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#img-div {
+  background: #FDD7E4;
+  padding: 20px;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#heading{
+	font-size: 30px;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+}
+#sub-heading1{
+	font-size: 25px;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+}
+.chakra{
+	width: 40%;
+  margin: auto;
+  margin-top: 30px;
+  margin-left: 0;
+  margin-right: 50px;
+  float: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+	font-size: large;
+}	
+
+#img1{
+	margin-left: 50px;
+}
+
+#img1-caption{
+	margin-left: 200px;
+}
+
+#sub-heading{
+	margin-left: 50px;
+	font-family: 'Bree Serif', serif;
+	font-size: 23px;
+	text-align: left;
+}
+
+p{
+	font-family: 'Inconsolata', monospace;
+	margin-left: 50px;
+	text-align: justify-all;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+ul{
+	font-family: 'Inconsolata', monospace;
+	margin-left: 50px;
+	font-size: 18px;
+	line-height: 35px;
+}
+
+blockquote{
+	font-size: 18px;
+}
+
+cite{
+	letter-spacing: 1px;
+}
+.img2{
+	padding-right: 300px;
+}
+
+#items{
+	width: 43%;
+	float: left;
+	padding-right: 80px;
+}
+
+.line{
+	border-bottom: 2px #9932CC dashed;
+	margin-right: 50px;
+}
+
+h4{
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+	font-size: 18px;
+}
+
+.reference{
+	line-height: 3px;
+	font-size: 15px;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+}
+
+#gratitute{
+	font-size: 26px;
+	font-family: 'Lobster', cursive;
+	letter-spacing: 1px;
+	color: #9932CC;
+}
+
+#developer{
+	font-family: 'Vollkorn', serif;
+	text-align: right;
+	margin-right: 50px;
+}
