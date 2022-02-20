@@ -1,2 +1,2 @@
 # Healing-with-crystals
-website design assignment
+website design assignment (tribute page)
